@@ -16,6 +16,7 @@ int main(){
     printf("Funcionalidad dashboard para el cliente añadida");
     printf("Añadiendo funcionalidad formulario de renovacion");
     printf("Funcionalidad formulario de renovación añadida");
-   
+    printf("Funcionalidad encuesta de satisfacción añadida");
+
     return 0;
 }
