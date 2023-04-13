@@ -14,5 +14,7 @@ int main(){
     printf("Funcionalidad diferentes ofertas añadida");
     printf("Añadiendo funcionalidad de dashboard para el cliente");
     printf("Funcionalidad dashboard para el cliente añadida");
+    printf("Funcionalidad formulario de renovación añadida");
+    
     return 0;
 }
