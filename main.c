@@ -17,6 +17,7 @@ int main(){
     printf("Añadiendo funcionalidad formulario de renovacion");
     printf("Funcionalidad formulario de renovación añadida");
     printf("Añadiendo funcionalidad encuesta de satisfacción");
-   
+    printf("Funcionalidad encuesta de satisfacción añadida");
+
     return 0;
 }
