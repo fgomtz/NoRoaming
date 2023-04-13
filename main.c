@@ -5,6 +5,7 @@ int main(){
     printf("Añadiendo funcionalidad password");
     printf("Funcionalidad password añadida");
     printf("Añadiendo funcionalidad boton");
+    printf("Funcionalidad botón añadida");
 
     return 0;
 }
