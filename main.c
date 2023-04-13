@@ -12,5 +12,6 @@ int main(){
     printf("Funcionalidad pasarela de pago añadida");
     printf("Añadiendo funcionalidad de diferentes ofertas");
     printf("Funcionalidad diferentes ofertas añadida");
+    printf("Funcionalidad dashboard para el cliente añadida");
     return 0;
 }
