@@ -8,5 +8,6 @@ int main(){
     printf("Funcionalidad botón añadida");
     printf("Añadiendo funcionalidad formulario de envio");
     printf("Funcionalidad formulario de envio añadida");
+    printf("Añadiendo funcionalidad pasarela de pago");
     return 0;
 }
