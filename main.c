@@ -7,5 +7,6 @@ int main(){
     printf("Añadiendo funcionalidad boton");
     printf("Funcionalidad botón añadida");
 
+    printf("Funcionalidad formulario de envio añadida")
     return 0;
 }
